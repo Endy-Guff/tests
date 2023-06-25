@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://endy-guff.github.io/tests/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
